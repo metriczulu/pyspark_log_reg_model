@@ -6,6 +6,8 @@ This project was part of an assignment for my DATA650 Big Data course.  The data
 
 This repository contains three files:  this README.md, the dataset used, the notebook containing the EDA and model building pipeline, and the required writeup for the assignment.
 
+The notebook is decently large.  If you have issues viewing it through github, a link to it on nbviewer is available here [here](https://nbviewer.jupyter.org/github/metriczulu/pyspark_log_reg_model/blob/master/lowbirthweight_notebook.ipynb)
+
 ## Problem Statement
 
 ### Build Logistic Regression model for low birth weight data
