@@ -6,7 +6,7 @@ This project was part of an assignment for my DATA650 Big Data course.  The data
 
 This repository contains three files:  this README.md, the dataset used, the notebook containing the EDA and model building pipeline, and the required writeup for the assignment.
 
-The notebook is decently large.  If you have issues viewing it through github, a link to it on nbviewer is available [here](https://nbviewer.jupyter.org/github/metriczulu/pyspark_log_reg_model/blob/master/lowbirthweight_notebook.ipynb)
+The notebook is decently large.  For some reason, github doesn't properly display the HTML table outlining the variables in the notebook.  This table is displayed properly in Jupyter Notebook itself and through nbviewer.  If you have issues viewing it through github, a link to it on nbviewer is available [here](https://nbviewer.jupyter.org/github/metriczulu/pyspark_log_reg_model/blob/master/lowbirthweight_notebook.ipynb)
 
 ## Problem Statement
 
